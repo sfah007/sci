@@ -1,0 +1,1 @@
+.lib.ohio-state.edu	TRUE	/	FALSE	0	ezproxy	p0Oh7EIPeZQSba1

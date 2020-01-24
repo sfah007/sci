@@ -1,0 +1,1 @@
+.lib.ncsu.edu	TRUE	/	FALSE	0	ezproxy	m4mHSGvBjxHmnxB
