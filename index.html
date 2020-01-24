@@ -1,0 +1,13 @@
+<html>
+	<head>
+	<title></title>
+	<script type="text/javascript">
+		function complete() {nav.document.getElementById('wait').style.display = 'none';}
+	</script>
+	</head>
+	<frameset rows="50px,3px,*" frameborder="0" border="0" framespacing="0">
+		<frame src="nav.html" name="nav" id="nav" noresize="noresize" scrolling="no" />
+		<frame src="" style="background-color:#ccc" />
+		<frame name="browser" id="browser" src="" onload="complete()" />
+	</frameset>
+</html>
